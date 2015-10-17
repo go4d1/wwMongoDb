@@ -4,10 +4,10 @@
 
 #### A small library to access MongoDb from Visual FoxPro
 
-wwMongoDb is a library that allows you to access MongoDb from Visual FoxPro. 
+wwMongoDb is a library  that allows you to access MongoDb from Visual FoxPro.
 wwMongoDb works using the MongoDb C# driver and provides a simple CRUD and
 JSON string based interface that allows FoxPro to interact  with MongoDb 
-via JSON commands and FoxPro serialized objects.
+via JSON commands and FoxPro serialized objects.  Hello from Marty
 
 Please also check:
 
